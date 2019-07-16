@@ -36,4 +36,30 @@ function addExcitement (theWordArray, numberOfDelimiters, delimiter) {
 
 // Invoke the function and pass in the array
 
-addExcitement(sentence, 3, "#")
+addExcitement(sentence, 2, "!");
+
+// const piggyBank = { pennies: 342,
+//                     dimes: 54,
+//                     nickels: 245,
+//                     quarters: 156
+// }
+
+// const totalPennies = piggyBank.pennies / 100;
+// console.log(totalPennies)
+// const totalDimes = piggyBank.dimes / 10;
+// console.log(totalDimes)
+// const totalNickels = piggyBank.nickels / 5;
+// console.log(totalNickels)
+// const totalQuarters = piggyBank.quarters / 25;
+// console.log(totalQuarters)
+
+// let dollarAmount = totalPennies + totalDimes + totalNickels + totalQuarters
+// console.log(dollarAmount)
+
+
+// const dollarAmount = 0.10
+// const piggyBank = {}
+
+// // Your magic code here
+
+// console.log(piggyBank)
